@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ffLSWBLfmogKVRGr//rXEnLrTfCHjcCF66YgFK98WAw=",
+  "Source": "ProducerService",
+  "BasePath": "_content/ProducerService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

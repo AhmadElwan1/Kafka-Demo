@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvnToHUG9wg=",
+  "success": true,
+  "projectFilePath": "/home/ahmad-elwan/Desktop/Dotnet/Kafka/ConsumerService/ConsumerService.csproj",
+  "expectedPackageFiles": [
+    "/home/ahmad-elwan/.nuget/packages/confluent.kafka/2.8.0/confluent.kafka.2.8.0.nupkg.sha512",
+    "/home/ahmad-elwan/.nuget/packages/librdkafka.redist/2.8.0/librdkafka.redist.2.8.0.nupkg.sha512",
+    "/home/ahmad-elwan/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/home/ahmad-elwan/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
