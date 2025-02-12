@@ -56,3 +56,4 @@
 /home/ahmad-elwan/Desktop/Dotnet/Kafka/ProducerService/obj/Debug/net9.0/ProducerService.pdb
 /home/ahmad-elwan/Desktop/Dotnet/Kafka/ProducerService/obj/Debug/net9.0/ProducerService.genruntimeconfig.cache
 /home/ahmad-elwan/Desktop/Dotnet/Kafka/ProducerService/obj/Debug/net9.0/ref/ProducerService.dll
+/home/ahmad-elwan/Desktop/Dotnet/Kafka/ProducerService/obj/Debug/net9.0/ProducerService.sourcelink.json

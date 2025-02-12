@@ -56,3 +56,4 @@
 /home/ahmad-elwan/Desktop/Dotnet/Kafka/ConsumerService/obj/Debug/net9.0/ConsumerService.pdb
 /home/ahmad-elwan/Desktop/Dotnet/Kafka/ConsumerService/obj/Debug/net9.0/ConsumerService.genruntimeconfig.cache
 /home/ahmad-elwan/Desktop/Dotnet/Kafka/ConsumerService/obj/Debug/net9.0/ref/ConsumerService.dll
+/home/ahmad-elwan/Desktop/Dotnet/Kafka/ConsumerService/obj/Debug/net9.0/ConsumerService.sourcelink.json
